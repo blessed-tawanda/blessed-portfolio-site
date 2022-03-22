@@ -1,6 +1,6 @@
-# Blessed Tawanda Mahuni Portfolio
+# Blessed Tawanda Mahuni Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This portfolio website also uses [Sanity](https://sanity.io) for simplified content management
 
 ## Available Scripts
 
